@@ -1,0 +1,8 @@
+{
+  "name": "Major AI Trinity",
+  "description": "A production-ready AI-driven self-mastery, financial sovereignty, and tech-legacy framework featuring three powerful agents: PILLAR, COME-UP, and CODEX.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
